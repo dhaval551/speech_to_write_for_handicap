@@ -8,7 +8,7 @@ from Search import search_and_run
 
 
 
-SEARCH_DIR = r"C:\Users\DHAVAL\java"
+SEARCH_DIR = r"C:\Users\java"
 def Print_text(text):
     print("you said : ", text)
 
@@ -77,3 +77,4 @@ def Speech(language):
 
 
 Speech(language='en-IN')            
+
